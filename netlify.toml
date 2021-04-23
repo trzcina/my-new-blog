@@ -4,10 +4,3 @@
 
 [template.environment]
   GATSBY_FLOTIQ_API_KEY="YOUR FLOTIQ API KEY"
-
-[build.environment]
-  GATSBY_FLOTIQ_API_KEY = "YOUR FLOTIQ API KEY"
-
-[context.production]
-  [context.production.environment]
-    GATSBY_FLOTIQ_API_KEY = "super secret"
